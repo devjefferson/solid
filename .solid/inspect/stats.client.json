@@ -1,0 +1,1832 @@
+{
+  "version": 2,
+  "tree": {
+    "name": "root",
+    "children": [
+      {
+        "name": "assets/entry-client.7d321829.js",
+        "children": [
+          {
+            "name": "node_modules",
+            "children": [
+              {
+                "name": "solid-js",
+                "children": [
+                  {
+                    "name": "dist/solid.js",
+                    "uid": "f6f4-1"
+                  },
+                  {
+                    "name": "web/dist/web.js",
+                    "uid": "f6f4-3"
+                  }
+                ]
+              },
+              {
+                "name": "solid-start",
+                "children": [
+                  {
+                    "name": "entry-client",
+                    "children": [
+                      {
+                        "uid": "f6f4-7",
+                        "name": "mount.tsx"
+                      },
+                      {
+                        "uid": "f6f4-37",
+                        "name": "StartClient.tsx"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "root",
+                    "children": [
+                      {
+                        "uid": "f6f4-19",
+                        "name": "FileRoutes.tsx"
+                      },
+                      {
+                        "uid": "f6f4-29",
+                        "name": "Scripts.tsx"
+                      },
+                      {
+                        "uid": "f6f4-31",
+                        "name": "Document.tsx"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "server",
+                    "children": [
+                      {
+                        "uid": "f6f4-21",
+                        "name": "ServerContext.tsx"
+                      },
+                      {
+                        "uid": "f6f4-25",
+                        "name": "types.tsx"
+                      }
+                    ]
+                  },
+                  {
+                    "uid": "f6f4-23",
+                    "name": "router.tsx"
+                  },
+                  {
+                    "name": "error-boundary/ErrorBoundary.tsx",
+                    "uid": "f6f4-27"
+                  }
+                ]
+              },
+              {
+                "name": "@solidjs",
+                "children": [
+                  {
+                    "name": "meta/dist/index.jsx",
+                    "uid": "f6f4-9"
+                  },
+                  {
+                    "name": "router/dist",
+                    "children": [
+                      {
+                        "uid": "f6f4-11",
+                        "name": "integration.js"
+                      },
+                      {
+                        "uid": "f6f4-13",
+                        "name": "utils.js"
+                      },
+                      {
+                        "uid": "f6f4-15",
+                        "name": "routing.js"
+                      },
+                      {
+                        "uid": "f6f4-17",
+                        "name": "components.jsx"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "\u0000vite/preload-helper",
+            "uid": "f6f4-5"
+          },
+          {
+            "name": "src",
+            "children": [
+              {
+                "uid": "f6f4-33",
+                "name": "root.css"
+              },
+              {
+                "uid": "f6f4-35",
+                "name": "root.tsx"
+              },
+              {
+                "uid": "f6f4-39",
+                "name": "entry-client.tsx"
+              }
+            ]
+          }
+        ],
+        "id": "assets/entry-client.7d321829.js",
+        "gzipLength": 13442,
+        "brotliLength": 0,
+        "renderedLength": 34869
+      },
+      {
+        "name": "assets/_...404_.2bb507cc.js",
+        "children": [
+          {
+            "name": "node_modules/solid-start/server/components/HttpStatusCode.tsx",
+            "uid": "f6f4-41"
+          },
+          {
+            "name": "src/routes/[...404].tsx",
+            "uid": "f6f4-43"
+          }
+        ],
+        "id": "assets/_...404_.2bb507cc.js",
+        "gzipLength": 376,
+        "brotliLength": 0,
+        "renderedLength": 561
+      },
+      {
+        "name": "assets/index.7b9a980e.js",
+        "children": [
+          {
+            "name": "src/routes/index.tsx",
+            "uid": "f6f4-45"
+          }
+        ],
+        "id": "assets/index.7b9a980e.js",
+        "gzipLength": 365,
+        "brotliLength": 0,
+        "renderedLength": 524
+      },
+      {
+        "name": "assets/Counter.2c5cf6a5.js",
+        "children": [
+          {
+            "name": "src/components",
+            "children": [
+              {
+                "uid": "f6f4-47",
+                "name": "Counter.css"
+              },
+              {
+                "uid": "f6f4-49",
+                "name": "Counter.tsx"
+              }
+            ]
+          }
+        ],
+        "id": "assets/Counter.2c5cf6a5.js",
+        "gzipLength": 264,
+        "brotliLength": 0,
+        "renderedLength": 342
+      },
+      {
+        "name": "assets/page.cd8737a2.js",
+        "children": [
+          {
+            "name": "src/routes/page.tsx",
+            "uid": "f6f4-51"
+          }
+        ],
+        "id": "assets/page.cd8737a2.js",
+        "gzipLength": 369,
+        "brotliLength": 0,
+        "renderedLength": 549
+      }
+    ],
+    "isRoot": true
+  },
+  "nodeParts": {
+    "f6f4-1": {
+      "renderedLength": 28532,
+      "gzipLength": 6922,
+      "brotliLength": 0,
+      "mainUid": "f6f4-0"
+    },
+    "f6f4-3": {
+      "renderedLength": 17106,
+      "gzipLength": 4751,
+      "brotliLength": 0,
+      "mainUid": "f6f4-2"
+    },
+    "f6f4-5": {
+      "renderedLength": 2200,
+      "gzipLength": 932,
+      "brotliLength": 0,
+      "mainUid": "f6f4-4"
+    },
+    "f6f4-7": {
+      "renderedLength": 69,
+      "gzipLength": 71,
+      "brotliLength": 0,
+      "mainUid": "f6f4-6"
+    },
+    "f6f4-9": {
+      "renderedLength": 4011,
+      "gzipLength": 1316,
+      "brotliLength": 0,
+      "mainUid": "f6f4-8"
+    },
+    "f6f4-11": {
+      "renderedLength": 2116,
+      "gzipLength": 785,
+      "brotliLength": 0,
+      "mainUid": "f6f4-10"
+    },
+    "f6f4-13": {
+      "renderedLength": 4267,
+      "gzipLength": 1631,
+      "brotliLength": 0,
+      "mainUid": "f6f4-12"
+    },
+    "f6f4-15": {
+      "renderedLength": 12129,
+      "gzipLength": 3360,
+      "brotliLength": 0,
+      "mainUid": "f6f4-14"
+    },
+    "f6f4-17": {
+      "renderedLength": 3687,
+      "gzipLength": 1244,
+      "brotliLength": 0,
+      "mainUid": "f6f4-16"
+    },
+    "f6f4-19": {
+      "renderedLength": 624,
+      "gzipLength": 313,
+      "brotliLength": 0,
+      "mainUid": "f6f4-18"
+    },
+    "f6f4-21": {
+      "renderedLength": 40,
+      "gzipLength": 54,
+      "brotliLength": 0,
+      "mainUid": "f6f4-20"
+    },
+    "f6f4-23": {
+      "renderedLength": 73,
+      "gzipLength": 79,
+      "brotliLength": 0,
+      "mainUid": "f6f4-22"
+    },
+    "f6f4-25": {
+      "renderedLength": 29,
+      "gzipLength": 45,
+      "brotliLength": 0,
+      "mainUid": "f6f4-24"
+    },
+    "f6f4-27": {
+      "renderedLength": 1914,
+      "gzipLength": 679,
+      "brotliLength": 0,
+      "mainUid": "f6f4-26"
+    },
+    "f6f4-29": {
+      "renderedLength": 270,
+      "gzipLength": 197,
+      "brotliLength": 0,
+      "mainUid": "f6f4-28"
+    },
+    "f6f4-31": {
+      "renderedLength": 796,
+      "gzipLength": 295,
+      "brotliLength": 0,
+      "mainUid": "f6f4-30"
+    },
+    "f6f4-33": {
+      "renderedLength": 16,
+      "gzipLength": 36,
+      "brotliLength": 0,
+      "mainUid": "f6f4-32"
+    },
+    "f6f4-35": {
+      "renderedLength": 1229,
+      "gzipLength": 347,
+      "brotliLength": 0,
+      "mainUid": "f6f4-34"
+    },
+    "f6f4-37": {
+      "renderedLength": 1006,
+      "gzipLength": 403,
+      "brotliLength": 0,
+      "mainUid": "f6f4-36"
+    },
+    "f6f4-39": {
+      "renderedLength": 56,
+      "gzipLength": 72,
+      "brotliLength": 0,
+      "mainUid": "f6f4-38"
+    },
+    "f6f4-41": {
+      "renderedLength": 104,
+      "gzipLength": 108,
+      "brotliLength": 0,
+      "mainUid": "f6f4-40"
+    },
+    "f6f4-43": {
+      "renderedLength": 710,
+      "gzipLength": 393,
+      "brotliLength": 0,
+      "mainUid": "f6f4-42"
+    },
+    "f6f4-45": {
+      "renderedLength": 691,
+      "gzipLength": 387,
+      "brotliLength": 0,
+      "mainUid": "f6f4-44"
+    },
+    "f6f4-47": {
+      "renderedLength": 21,
+      "gzipLength": 41,
+      "brotliLength": 0,
+      "mainUid": "f6f4-46"
+    },
+    "f6f4-49": {
+      "renderedLength": 503,
+      "gzipLength": 317,
+      "brotliLength": 0,
+      "mainUid": "f6f4-48"
+    },
+    "f6f4-51": {
+      "renderedLength": 711,
+      "gzipLength": 392,
+      "brotliLength": 0,
+      "mainUid": "f6f4-50"
+    }
+  },
+  "nodeMetas": {
+    "f6f4-0": {
+      "id": "/node_modules/solid-js/dist/solid.js",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-1"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-6"
+        },
+        {
+          "uid": "f6f4-53"
+        },
+        {
+          "uid": "f6f4-8"
+        },
+        {
+          "uid": "f6f4-34"
+        },
+        {
+          "uid": "f6f4-20"
+        },
+        {
+          "uid": "f6f4-16"
+        },
+        {
+          "uid": "f6f4-10"
+        },
+        {
+          "uid": "f6f4-14"
+        },
+        {
+          "uid": "f6f4-12"
+        },
+        {
+          "uid": "f6f4-18"
+        },
+        {
+          "uid": "f6f4-58"
+        },
+        {
+          "uid": "f6f4-22"
+        },
+        {
+          "uid": "f6f4-48"
+        },
+        {
+          "uid": "f6f4-64"
+        },
+        {
+          "uid": "f6f4-65"
+        },
+        {
+          "uid": "f6f4-26"
+        },
+        {
+          "uid": "f6f4-67"
+        },
+        {
+          "uid": "f6f4-30"
+        },
+        {
+          "uid": "f6f4-68"
+        },
+        {
+          "uid": "f6f4-69"
+        },
+        {
+          "uid": "f6f4-28"
+        },
+        {
+          "uid": "f6f4-70"
+        },
+        {
+          "uid": "f6f4-79"
+        },
+        {
+          "uid": "f6f4-80"
+        },
+        {
+          "uid": "f6f4-81"
+        },
+        {
+          "uid": "f6f4-82"
+        },
+        {
+          "uid": "f6f4-40"
+        }
+      ]
+    },
+    "f6f4-2": {
+      "id": "/node_modules/solid-js/web/dist/web.js",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-3"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-38"
+        },
+        {
+          "uid": "f6f4-6"
+        },
+        {
+          "uid": "f6f4-36"
+        },
+        {
+          "uid": "f6f4-8"
+        },
+        {
+          "uid": "f6f4-34"
+        },
+        {
+          "uid": "f6f4-16"
+        },
+        {
+          "uid": "f6f4-14"
+        },
+        {
+          "uid": "f6f4-42"
+        },
+        {
+          "uid": "f6f4-44"
+        },
+        {
+          "uid": "f6f4-50"
+        },
+        {
+          "uid": "f6f4-58"
+        },
+        {
+          "uid": "f6f4-22"
+        },
+        {
+          "uid": "f6f4-48"
+        },
+        {
+          "uid": "f6f4-64"
+        },
+        {
+          "uid": "f6f4-65"
+        },
+        {
+          "uid": "f6f4-26"
+        },
+        {
+          "uid": "f6f4-67"
+        },
+        {
+          "uid": "f6f4-30"
+        },
+        {
+          "uid": "f6f4-68"
+        },
+        {
+          "uid": "f6f4-69"
+        },
+        {
+          "uid": "f6f4-28"
+        },
+        {
+          "uid": "f6f4-70"
+        },
+        {
+          "uid": "f6f4-79"
+        },
+        {
+          "uid": "f6f4-81"
+        },
+        {
+          "uid": "f6f4-82"
+        },
+        {
+          "uid": "f6f4-40"
+        }
+      ]
+    },
+    "f6f4-4": {
+      "id": "\u0000vite/preload-helper",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-5"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-6"
+        },
+        {
+          "uid": "f6f4-18"
+        }
+      ]
+    },
+    "f6f4-6": {
+      "id": "/node_modules/solid-start/entry-client/mount.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-7"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-4"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-53"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-52"
+        }
+      ]
+    },
+    "f6f4-8": {
+      "id": "/node_modules/@solidjs/meta/dist/index.jsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-9"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-36"
+        },
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-69"
+        },
+        {
+          "uid": "f6f4-81"
+        }
+      ]
+    },
+    "f6f4-10": {
+      "id": "/node_modules/@solidjs/router/dist/integration.js",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-11"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-54"
+        },
+        {
+          "uid": "f6f4-16"
+        },
+        {
+          "uid": "f6f4-14"
+        }
+      ]
+    },
+    "f6f4-12": {
+      "id": "/node_modules/@solidjs/router/dist/utils.js",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-13"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-54"
+        },
+        {
+          "uid": "f6f4-16"
+        },
+        {
+          "uid": "f6f4-14"
+        }
+      ]
+    },
+    "f6f4-14": {
+      "id": "/node_modules/@solidjs/router/dist/routing.js",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-15"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-10"
+        },
+        {
+          "uid": "f6f4-12"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-54"
+        },
+        {
+          "uid": "f6f4-16"
+        }
+      ]
+    },
+    "f6f4-16": {
+      "id": "/node_modules/@solidjs/router/dist/components.jsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-17"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-10"
+        },
+        {
+          "uid": "f6f4-14"
+        },
+        {
+          "uid": "f6f4-12"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-54"
+        }
+      ]
+    },
+    "f6f4-18": {
+      "id": "/node_modules/solid-start/root/FileRoutes.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-19"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-4"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-42",
+          "dynamic": true
+        },
+        {
+          "uid": "f6f4-44",
+          "dynamic": true
+        },
+        {
+          "uid": "f6f4-50",
+          "dynamic": true
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-34"
+        }
+      ]
+    },
+    "f6f4-20": {
+      "id": "/node_modules/solid-start/server/ServerContext.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-21"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-36"
+        },
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-58"
+        },
+        {
+          "uid": "f6f4-64"
+        },
+        {
+          "uid": "f6f4-65"
+        },
+        {
+          "uid": "f6f4-68"
+        },
+        {
+          "uid": "f6f4-69"
+        },
+        {
+          "uid": "f6f4-28"
+        },
+        {
+          "uid": "f6f4-78"
+        },
+        {
+          "uid": "f6f4-81"
+        },
+        {
+          "uid": "f6f4-82"
+        },
+        {
+          "uid": "f6f4-40"
+        }
+      ]
+    },
+    "f6f4-22": {
+      "id": "/node_modules/solid-start/router.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-23"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-54"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-70"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-65"
+        }
+      ]
+    },
+    "f6f4-24": {
+      "id": "/node_modules/solid-start/server/types.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-25"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-36"
+        },
+        {
+          "uid": "f6f4-65"
+        },
+        {
+          "uid": "f6f4-77"
+        },
+        {
+          "uid": "f6f4-78"
+        }
+      ]
+    },
+    "f6f4-26": {
+      "id": "/node_modules/solid-start/error-boundary/ErrorBoundary.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-27"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-57"
+        }
+      ]
+    },
+    "f6f4-28": {
+      "id": "/node_modules/solid-start/root/Scripts.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-29"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-20"
+        },
+        {
+          "uid": "f6f4-81"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-59"
+        },
+        {
+          "uid": "f6f4-30"
+        }
+      ]
+    },
+    "f6f4-30": {
+      "id": "/node_modules/solid-start/root/Document.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-31"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-68"
+        },
+        {
+          "uid": "f6f4-69"
+        },
+        {
+          "uid": "f6f4-28"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-59"
+        }
+      ]
+    },
+    "f6f4-32": {
+      "id": "/src/root.css",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-33"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-34"
+        }
+      ]
+    },
+    "f6f4-34": {
+      "id": "/src/root.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-35"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-18"
+        },
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-32"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-36"
+        }
+      ]
+    },
+    "f6f4-36": {
+      "id": "/node_modules/solid-start/entry-client/StartClient.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-37"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-8"
+        },
+        {
+          "uid": "f6f4-54"
+        },
+        {
+          "uid": "f6f4-34"
+        },
+        {
+          "uid": "f6f4-20"
+        },
+        {
+          "uid": "f6f4-24"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-52"
+        }
+      ]
+    },
+    "f6f4-38": {
+      "id": "/src/entry-client.tsx",
+      "moduleParts": {
+        "assets/entry-client.7d321829.js": "f6f4-39"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-52"
+        }
+      ],
+      "importedBy": [],
+      "isEntry": true
+    },
+    "f6f4-40": {
+      "id": "/node_modules/solid-start/server/components/HttpStatusCode.tsx",
+      "moduleParts": {
+        "assets/_...404_.2bb507cc.js": "f6f4-41"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-20"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-78"
+        }
+      ]
+    },
+    "f6f4-42": {
+      "id": "/src/routes/[...404].tsx",
+      "moduleParts": {
+        "assets/_...404_.2bb507cc.js": "f6f4-43"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-63"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-18"
+        }
+      ]
+    },
+    "f6f4-44": {
+      "id": "/src/routes/index.tsx",
+      "moduleParts": {
+        "assets/index.7b9a980e.js": "f6f4-45"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-48"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-18"
+        }
+      ]
+    },
+    "f6f4-46": {
+      "id": "/src/components/Counter.css",
+      "moduleParts": {
+        "assets/Counter.2c5cf6a5.js": "f6f4-47"
+      },
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-48"
+        }
+      ]
+    },
+    "f6f4-48": {
+      "id": "/src/components/Counter.tsx",
+      "moduleParts": {
+        "assets/Counter.2c5cf6a5.js": "f6f4-49"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-46"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-44"
+        },
+        {
+          "uid": "f6f4-50"
+        }
+      ]
+    },
+    "f6f4-50": {
+      "id": "/src/routes/page.tsx",
+      "moduleParts": {
+        "assets/page.cd8737a2.js": "f6f4-51"
+      },
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-48"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-18"
+        }
+      ]
+    },
+    "f6f4-52": {
+      "id": "/node_modules/solid-start/entry-client/index.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-6"
+        },
+        {
+          "uid": "f6f4-36"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-38"
+        }
+      ]
+    },
+    "f6f4-53": {
+      "id": "/node_modules/solid-start/islands/router.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-6"
+        }
+      ]
+    },
+    "f6f4-54": {
+      "id": "/node_modules/@solidjs/router/dist/index.jsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-16"
+        },
+        {
+          "uid": "f6f4-10"
+        },
+        {
+          "uid": "f6f4-14"
+        },
+        {
+          "uid": "f6f4-12"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-36"
+        },
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-56"
+        },
+        {
+          "uid": "f6f4-22"
+        },
+        {
+          "uid": "f6f4-64"
+        }
+      ]
+    },
+    "f6f4-55": {
+      "id": "/node_modules/solid-start/index.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-8"
+        },
+        {
+          "uid": "f6f4-54"
+        },
+        {
+          "uid": "f6f4-56"
+        },
+        {
+          "uid": "f6f4-57"
+        },
+        {
+          "uid": "f6f4-58"
+        },
+        {
+          "uid": "f6f4-59"
+        },
+        {
+          "uid": "f6f4-22"
+        },
+        {
+          "uid": "f6f4-60"
+        },
+        {
+          "uid": "f6f4-20"
+        },
+        {
+          "uid": "f6f4-61"
+        },
+        {
+          "uid": "f6f4-62"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-34"
+        },
+        {
+          "uid": "f6f4-42"
+        },
+        {
+          "uid": "f6f4-44"
+        },
+        {
+          "uid": "f6f4-50"
+        }
+      ]
+    },
+    "f6f4-56": {
+      "id": "/node_modules/solid-start/data/index.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-54"
+        },
+        {
+          "uid": "f6f4-64"
+        },
+        {
+          "uid": "f6f4-65"
+        },
+        {
+          "uid": "f6f4-66"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-77"
+        },
+        {
+          "uid": "f6f4-83"
+        }
+      ]
+    },
+    "f6f4-57": {
+      "id": "/node_modules/solid-start/error-boundary/index.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-26"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-55"
+        }
+      ]
+    },
+    "f6f4-58": {
+      "id": "/node_modules/solid-start/islands/index.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-20"
+        },
+        {
+          "uid": "f6f4-67"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-55"
+        }
+      ]
+    },
+    "f6f4-59": {
+      "id": "/node_modules/solid-start/root/index.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-30"
+        },
+        {
+          "uid": "f6f4-68"
+        },
+        {
+          "uid": "f6f4-69"
+        },
+        {
+          "uid": "f6f4-28"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-55"
+        }
+      ]
+    },
+    "f6f4-60": {
+      "id": "/node_modules/solid-start/server/responses.ts",
+      "moduleParts": {},
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-55"
+        },
+        {
+          "uid": "f6f4-64"
+        },
+        {
+          "uid": "f6f4-65"
+        },
+        {
+          "uid": "f6f4-77"
+        },
+        {
+          "uid": "f6f4-78"
+        }
+      ]
+    },
+    "f6f4-61": {
+      "id": "/node_modules/solid-start/session/index.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-71"
+        },
+        {
+          "uid": "f6f4-72"
+        },
+        {
+          "uid": "f6f4-73"
+        },
+        {
+          "uid": "f6f4-74"
+        },
+        {
+          "uid": "f6f4-75"
+        },
+        {
+          "uid": "f6f4-76"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-55"
+        }
+      ]
+    },
+    "f6f4-62": {
+      "id": "/node_modules/solid-start/types.ts",
+      "moduleParts": {},
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-55"
+        }
+      ]
+    },
+    "f6f4-63": {
+      "id": "/node_modules/solid-start/server/browser.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-77"
+        },
+        {
+          "uid": "f6f4-78"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-42"
+        }
+      ]
+    },
+    "f6f4-64": {
+      "id": "/node_modules/solid-start/data/createRouteAction.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-54"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-79"
+        },
+        {
+          "uid": "f6f4-60"
+        },
+        {
+          "uid": "f6f4-20"
+        },
+        {
+          "uid": "f6f4-65"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-56"
+        }
+      ]
+    },
+    "f6f4-65": {
+      "id": "/node_modules/solid-start/data/createRouteData.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-80"
+        },
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-22"
+        },
+        {
+          "uid": "f6f4-60"
+        },
+        {
+          "uid": "f6f4-20"
+        },
+        {
+          "uid": "f6f4-24"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-56"
+        },
+        {
+          "uid": "f6f4-64"
+        }
+      ]
+    },
+    "f6f4-66": {
+      "id": "/node_modules/solid-start/data/FormError.tsx",
+      "moduleParts": {},
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-56"
+        },
+        {
+          "uid": "f6f4-77"
+        },
+        {
+          "uid": "f6f4-79"
+        }
+      ]
+    },
+    "f6f4-67": {
+      "id": "/node_modules/solid-start/islands/clientOnly.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-2"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-58"
+        }
+      ]
+    },
+    "f6f4-68": {
+      "id": "/node_modules/solid-start/root/Links.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-20"
+        },
+        {
+          "uid": "f6f4-81"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-59"
+        },
+        {
+          "uid": "f6f4-30"
+        }
+      ]
+    },
+    "f6f4-69": {
+      "id": "/node_modules/solid-start/root/Meta.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-8"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-20"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-59"
+        },
+        {
+          "uid": "f6f4-30"
+        }
+      ]
+    },
+    "f6f4-70": {
+      "id": "/node_modules/solid-start/islands/server-router.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-22"
+        }
+      ]
+    },
+    "f6f4-71": {
+      "id": "/node_modules/solid-start/session/cookies.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-76"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-61"
+        },
+        {
+          "uid": "f6f4-73"
+        },
+        {
+          "uid": "f6f4-75"
+        }
+      ]
+    },
+    "f6f4-72": {
+      "id": "/node_modules/solid-start/session/cookieSigning.ts",
+      "moduleParts": {},
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-61"
+        }
+      ]
+    },
+    "f6f4-73": {
+      "id": "/node_modules/solid-start/session/cookieStorage.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-71"
+        },
+        {
+          "uid": "f6f4-75"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-61"
+        }
+      ]
+    },
+    "f6f4-74": {
+      "id": "/node_modules/solid-start/session/memoryStorage.ts",
+      "moduleParts": {},
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-61"
+        }
+      ]
+    },
+    "f6f4-75": {
+      "id": "/node_modules/solid-start/session/sessions.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-71"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-61"
+        },
+        {
+          "uid": "f6f4-73"
+        }
+      ]
+    },
+    "f6f4-76": {
+      "id": "/node_modules/solid-start/session/cookie.ts",
+      "moduleParts": {},
+      "imported": [],
+      "importedBy": [
+        {
+          "uid": "f6f4-61"
+        },
+        {
+          "uid": "f6f4-71"
+        }
+      ]
+    },
+    "f6f4-77": {
+      "id": "/node_modules/solid-start/server/server-functions/browser.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-60"
+        },
+        {
+          "uid": "f6f4-24"
+        },
+        {
+          "uid": "f6f4-56"
+        },
+        {
+          "uid": "f6f4-66"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-63"
+        }
+      ]
+    },
+    "f6f4-78": {
+      "id": "/node_modules/solid-start/server/shared.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-82"
+        },
+        {
+          "uid": "f6f4-40"
+        },
+        {
+          "uid": "f6f4-83"
+        },
+        {
+          "uid": "f6f4-60"
+        },
+        {
+          "uid": "f6f4-20"
+        },
+        {
+          "uid": "f6f4-24"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-63"
+        }
+      ]
+    },
+    "f6f4-79": {
+      "id": "/node_modules/solid-start/data/Form.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-66"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-64"
+        }
+      ]
+    },
+    "f6f4-80": {
+      "id": "/node_modules/solid-js/store/dist/store.js",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-65"
+        }
+      ]
+    },
+    "f6f4-81": {
+      "id": "/node_modules/solid-start/root/InlineStyles.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-8"
+        },
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-20"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-68"
+        },
+        {
+          "uid": "f6f4-28"
+        }
+      ]
+    },
+    "f6f4-82": {
+      "id": "/node_modules/solid-start/server/components/HttpHeader.tsx",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-0"
+        },
+        {
+          "uid": "f6f4-2"
+        },
+        {
+          "uid": "f6f4-20"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-78"
+        }
+      ]
+    },
+    "f6f4-83": {
+      "id": "/node_modules/solid-start/server/data.ts",
+      "moduleParts": {},
+      "imported": [
+        {
+          "uid": "f6f4-56"
+        }
+      ],
+      "importedBy": [
+        {
+          "uid": "f6f4-78"
+        }
+      ]
+    }
+  },
+  "env": {
+    "rollup": "2.79.1"
+  },
+  "options": {
+    "gzip": true,
+    "brotli": false,
+    "sourcemap": false
+  }
+}

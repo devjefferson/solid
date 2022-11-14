@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/node_modules/solid-start/error-boundary/index.tsx",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "solid"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "import { ErrorBoundary } from \"./ErrorBoundary\";\nexport { ErrorMessage } from \"./ErrorBoundary\";\nexport { ErrorBoundary };\nexport default ErrorBoundary;\n",
+      "start": 1668429520022,
+      "end": 1668429520073
+    },
+    {
+      "name": "solid",
+      "result": "import { ErrorBoundary } from \"./ErrorBoundary\";\nexport { ErrorMessage } from \"./ErrorBoundary\";\nexport { ErrorBoundary };\nexport default ErrorBoundary;",
+      "start": 1668429520073,
+      "end": 1668429520074
+    }
+  ],
+  "virtual": false
+}

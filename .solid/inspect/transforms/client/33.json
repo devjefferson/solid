@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/node_modules/solid-start/server/browser.ts",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "vite:esbuild"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "export { server$ as default } from \"./server-functions/browser\";\nexport * from \"./shared\";\n\nexport const isServerFunctionRequest = () => {\n  throw new Error(\"isServerFunctionRequest is not supported on the browser\");\n};\n\n\n",
+      "start": 1668429520073,
+      "end": 1668429520111
+    },
+    {
+      "name": "vite:esbuild",
+      "result": "export { server$ as default } from \"./server-functions/browser\";\nexport * from \"./shared\";\nexport const isServerFunctionRequest = () => {\n  throw new Error(\"isServerFunctionRequest is not supported on the browser\");\n};\n",
+      "start": 1668429520111,
+      "end": 1668429520142
+    }
+  ],
+  "virtual": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/node_modules/solid-start/root/index.tsx",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "solid"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "// isomorphic exports\nexport { Body, Head, Html } from \"./Document\";\nexport { default as Links } from \"./Links\";\nexport { default as Meta } from \"./Meta\";\nexport { default as Scripts } from \"./Scripts\";\n",
+      "start": 1668429520022,
+      "end": 1668429520092
+    },
+    {
+      "name": "solid",
+      "result": "// isomorphic exports\nexport { Body, Head, Html } from \"./Document\";\nexport { default as Links } from \"./Links\";\nexport { default as Meta } from \"./Meta\";\nexport { default as Scripts } from \"./Scripts\";",
+      "start": 1668429520092,
+      "end": 1668429520093
+    }
+  ],
+  "virtual": false
+}

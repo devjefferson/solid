@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/node_modules/solid-start/server/data.ts",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "vite:esbuild"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "import { createRouteAction, createRouteData, createRouteMultiAction } from \"../data\";\nexport { ServerError } from \"../data\";\nexport const createServerData$ = createRouteData;\nexport const createServerAction$ = createRouteAction;\nexport const createServerMultiAction$ = createRouteMultiAction;\n",
+      "start": 1668429520600,
+      "end": 1668429520604
+    },
+    {
+      "name": "vite:esbuild",
+      "result": "import { createRouteAction, createRouteData, createRouteMultiAction } from \"../data\";\nexport { ServerError } from \"../data\";\nexport const createServerData$ = createRouteData;\nexport const createServerAction$ = createRouteAction;\nexport const createServerMultiAction$ = createRouteMultiAction;\n",
+      "start": 1668429520605,
+      "end": 1668429520605
+    }
+  ],
+  "virtual": false
+}

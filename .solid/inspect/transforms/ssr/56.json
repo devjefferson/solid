@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/src/routes/index.tsx",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "solid"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "import { Title } from \"solid-start\";\nimport Counter from \"~/components/Counter\";\n\nexport default function Home() {\n  return (\n    <main>\n      <Title>Hello World</Title>\n      <h1>Hello world!</h1>\n      <Counter />\n      <p>\n        Visit{\" \"}\n        <a href=\"/page\" target=\"_blank\">\n          start.solidjs.com\n        </a>{\" \"}\n        to learn how to build SolidStart apps.\n      </p>\n    </main>\n  );\n}\n",
+      "start": 1668429520419,
+      "end": 1668429520453
+    },
+    {
+      "name": "solid",
+      "result": "import { ssr as _$ssr } from \"solid-js/web\";\nimport { escape as _$escape } from \"solid-js/web\";\nimport { createComponent as _$createComponent } from \"solid-js/web\";\nimport { ssrHydrationKey as _$ssrHydrationKey } from \"solid-js/web\";\nconst _tmpl$ = [\"<main\", \"><!--#-->\", \"<!--/--><h1>Hello world!</h1><!--#-->\", \"<!--/--><p>Visit <a href=\\\"/page\\\" target=\\\"_blank\\\">start.solidjs.com</a> to learn how to build SolidStart apps.</p></main>\"];\nimport { Title } from \"solid-start\";\nimport Counter from \"~/components/Counter\";\nexport default function Home() {\n  return _$ssr(_tmpl$, _$ssrHydrationKey(), _$escape(_$createComponent(Title, {\n    children: \"Hello World\"\n  })), _$escape(_$createComponent(Counter, {})));\n}",
+      "start": 1668429520454,
+      "end": 1668429520457
+    }
+  ],
+  "virtual": false
+}

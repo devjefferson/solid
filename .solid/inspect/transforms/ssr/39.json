@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/node_modules/solid-start/server/server.ts",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "vite:esbuild"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "import { server$ } from \"./server-functions/server\";\n\nexport default server$;\n\nexport * from \"./shared\";\n",
+      "start": 1668429520470,
+      "end": 1668429520509
+    },
+    {
+      "name": "vite:esbuild",
+      "result": "import { server$ } from \"./server-functions/server\";\nexport default server$;\nexport * from \"./shared\";\n",
+      "start": 1668429520509,
+      "end": 1668429520544
+    }
+  ],
+  "virtual": false
+}

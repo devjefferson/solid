@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/node_modules/solid-start/server/shared.ts",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "vite:esbuild"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "export { HttpHeader } from \"./components/HttpHeader\";\nexport { HttpStatusCode } from \"./components/HttpStatusCode\";\nexport { createServerAction$, createServerData$, createServerMultiAction$, ServerError } from \"./data\";\nexport * from \"./responses\";\nexport * from \"./ServerContext\";\nexport * from \"./types\";\n\n",
+      "start": 1668429520547,
+      "end": 1668429520584
+    },
+    {
+      "name": "vite:esbuild",
+      "result": "export { HttpHeader } from \"./components/HttpHeader\";\nexport { HttpStatusCode } from \"./components/HttpStatusCode\";\nexport { createServerAction$, createServerData$, createServerMultiAction$, ServerError } from \"./data\";\nexport * from \"./responses\";\nexport * from \"./ServerContext\";\nexport * from \"./types\";\n",
+      "start": 1668429520584,
+      "end": 1668429520599
+    }
+  ],
+  "virtual": false
+}

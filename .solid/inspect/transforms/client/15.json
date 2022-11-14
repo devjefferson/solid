@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/node_modules/solid-start/entry-client/index.tsx",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "solid"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "export { default as mount } from \"./mount\";\nexport { default as StartClient } from \"./StartClient\";\n",
+      "start": 1668429519854,
+      "end": 1668429519899
+    },
+    {
+      "name": "solid",
+      "result": "export { default as mount } from \"./mount\";\nexport { default as StartClient } from \"./StartClient\";",
+      "start": 1668429519899,
+      "end": 1668429519903
+    }
+  ],
+  "virtual": false
+}

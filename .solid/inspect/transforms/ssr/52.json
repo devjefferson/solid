@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/src/entry-server.tsx",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "solid"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "import {\n  createHandler,\n  renderAsync,\n  StartServer,\n} from \"solid-start/entry-server\";\n\nexport default createHandler(\n  renderAsync((event) => <StartServer event={event} />)\n);\n",
+      "start": 1668429520369,
+      "end": 1668429520369
+    },
+    {
+      "name": "solid",
+      "result": "import { createComponent as _$createComponent } from \"solid-js/web\";\nimport { createHandler, renderAsync, StartServer } from \"solid-start/entry-server\";\nexport default createHandler(renderAsync(event => _$createComponent(StartServer, {\n  event: event\n})));",
+      "start": 1668429520369,
+      "end": 1668429520370
+    }
+  ],
+  "virtual": false
+}

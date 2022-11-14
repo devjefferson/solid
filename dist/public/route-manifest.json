@@ -1,0 +1,71 @@
+{
+  "/*404": [
+    {
+      "type": "script",
+      "href": "/assets/_...404_.2bb507cc.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/entry-client.7d321829.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client.d870915a.css"
+    }
+  ],
+  "/": [
+    {
+      "type": "script",
+      "href": "/assets/index.7b9a980e.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/entry-client.7d321829.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client.d870915a.css"
+    },
+    {
+      "type": "script",
+      "href": "/assets/Counter.2c5cf6a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/Counter.fdb6b3cf.css"
+    }
+  ],
+  "/page": [
+    {
+      "type": "script",
+      "href": "/assets/page.cd8737a2.js"
+    },
+    {
+      "type": "script",
+      "href": "/assets/entry-client.7d321829.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client.d870915a.css"
+    },
+    {
+      "type": "script",
+      "href": "/assets/Counter.2c5cf6a5.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/Counter.fdb6b3cf.css"
+    }
+  ],
+  "entry-client": [
+    {
+      "type": "script",
+      "href": "/assets/entry-client.7d321829.js"
+    },
+    {
+      "type": "style",
+      "href": "/assets/entry-client.d870915a.css"
+    }
+  ],
+  "index.html": []
+}

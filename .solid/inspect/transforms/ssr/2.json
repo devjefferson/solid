@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/node_modules/@solidjs/router/dist/index.jsx",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "solid"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "export * from \"./components\";\nexport * from \"./integration\";\nexport { useRouteData, useHref, useIsRouting, useLocation, useMatch, useNavigate, useParams, useResolvedPath, useSearchParams } from \"./routing\";\nexport { mergeSearchString as _mergeSearchString } from \"./utils\";\n",
+      "start": 1668429520388,
+      "end": 1668429520400
+    },
+    {
+      "name": "solid",
+      "result": "export * from \"./components\";\nexport * from \"./integration\";\nexport { useRouteData, useHref, useIsRouting, useLocation, useMatch, useNavigate, useParams, useResolvedPath, useSearchParams } from \"./routing\";\nexport { mergeSearchString as _mergeSearchString } from \"./utils\";",
+      "start": 1668429520400,
+      "end": 1668429520401
+    }
+  ],
+  "virtual": false
+}

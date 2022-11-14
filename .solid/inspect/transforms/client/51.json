@@ -1,0 +1,23 @@
+{
+  "id": "/Users/jeffersonfonseca/Documents/Projeto Pessoal/solid-test/src/entry-client.tsx",
+  "deps": [],
+  "plugins": [
+    "vite:load-fallback",
+    "solid"
+  ],
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "import { mount, StartClient } from \"solid-start/entry-client\";\n\nmount(() => <StartClient />, document);\n",
+      "start": 1668429519816,
+      "end": 1668429519816
+    },
+    {
+      "name": "solid",
+      "result": "import { createComponent as _$createComponent } from \"solid-js/web\";\nimport { mount, StartClient } from \"solid-start/entry-client\";\nmount(() => _$createComponent(StartClient, {}), document);",
+      "start": 1668429519817,
+      "end": 1668429519846
+    }
+  ],
+  "virtual": false
+}

@@ -1,0 +1,1 @@
+import{b as l,g as o,a as c,i as u,r as $,t as g,d as m}from"./entry-client.7d321829.js";const C=g('<button class="increment">Clicks: <!#><!/></button>');function b(){const[e,n]=l(0);return(()=>{const t=o(C),s=t.firstChild,r=s.nextSibling,[a,i]=c(r.nextSibling);return t.$$click=()=>n(e()+1),u(t,e,a,i),$(),t})()}m(["click"]);export{b as C};
