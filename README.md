@@ -5,7 +5,7 @@ Everything you need to build a Solid project, powered by [`solid-start`](https:/
 ## Creating a project
 
 ```bash
-# create a new project in the current directory
+# create a new project in the current directory e
 npm init solid
 
 # create a new project in my-app
